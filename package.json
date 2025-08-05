@@ -1,5 +1,5 @@
 {
-  "dependencies": {
-    "react-parallax-mouse": "^2.1.0"
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
